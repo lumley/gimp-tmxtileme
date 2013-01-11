@@ -13,6 +13,8 @@ This plugin requires the following:
 ## Installation
 Installation of this plugin goes like any other Python-fu plugin. Just download the file and move it to your GIMP plug-ins folder (by default, "%USERPROFILE%\\.gimp-2.8\plug-ins\" in Windows and "~/.gimp-2.8/plug-ins/" in Linux).
 
+Once installed you will find the plugin in Gimp menu: Filters -> Map -> Transform into TMX Tiles
+
 ## Collaborate
 Want to make your own plugins or improve this one? You can find some information on how to start on the next link:
  * [`Frederic Jaume - Python-Fu introduction`][URI_GimpTutorial1]
